@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReceiptApp</string>
+    <string name="youtube">For details see video</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
